@@ -1,0 +1,96 @@
+body {
+    background-color: burlywood;
+    color: rgba(95, 32, 32, 0.5);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24pt;
+
+}
+
+h1 {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: brown;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+img {
+    width: 50%;
+    border: 5 px dotted palevioletred;
+}
+
+h2 {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: saddlebrown;
+    font-style: italic;
+    font-size: 20pt;
+
+
+}
+h3 {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: saddlebrown;
+    font-style: italic;
+    font-size: 20pt;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: 5px dotted palevioletred;
+}
+
+#chicken_pic{
+    width: 30%;
+    border: 10px dotted palevioletred;
+}
+#ingredients_pic{
+    width: 30%;
+    border: 5px solid goldenrod;
+}
+#kai2{
+    width: 30%;
+    border: 10px dashed green;
+}
+#kai3{
+    width: 30%;
+    border: 10px dashed greenyellow;
+}
+#kai4{
+    width: 30%;
+    border: 10px dashed lawngreen;
+}
+.right_page
+{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+.left_page{
+    text-align: left;
+}
+.ko
+{
+    border: 10px dashed firebrick; 
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    
+
+}
+.doo
+{
+    display:flex;
+     margin: right; 
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
